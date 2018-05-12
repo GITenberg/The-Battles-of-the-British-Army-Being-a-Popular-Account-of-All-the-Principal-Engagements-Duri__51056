@@ -1,10 +1,16 @@
 _repo: The-Battles-of-the-British-Army-Being-a-Popular-Account-of-All-the-Principal-Engagements-Duri__51056
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51056-h/images/cover.jpg
 creator:
   author:
     agent_name: Blackwood, Robert Melvin
     gutenberg_agent_id: '46218'
     url: http://www.gutenberg.org/2009/agents/46218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51056#The-Battles-of-the-British-Army-Being-a-Popular-Account-of-All-the-Principal-Engagements-Duri_
 gutenberg_issued: '2016-01-27'
 gutenberg_type: Text
 identifiers:
